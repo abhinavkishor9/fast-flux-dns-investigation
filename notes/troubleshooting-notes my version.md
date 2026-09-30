@@ -1,4 +1,4 @@
-# Troubleshooting Notes — Fast-Flux DNS Investigation
+# Troubleshooting Notes 
 
 ## 1. Test Domain Input Issue
 
